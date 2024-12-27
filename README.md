@@ -9,6 +9,11 @@
 git clone https://github.com/DevAndr/github-issues-back.git
 ```
 
+### Установка docker
+Если нет докера, его надо устанвоить. Ссылка ниже как это сделать
+
+https://docs.docker.com/engine/install/
+
 ### Запуск докера
 В корне проекта выполнить команду
 
